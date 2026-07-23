@@ -38,7 +38,7 @@ git clone https://github.com/saurabh-2414/Tic-Tac-Toe-Game
 
 2. Open the project folder in Visual Studio Code.
 
-3. Open `index.html` in your browser or use the Live Server extension.
+3. Open `tic.html` in your browser or use the Live Server extension.
 
 4. Start playing the game.
 
