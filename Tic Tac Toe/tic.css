@@ -62,9 +62,24 @@ body{
     font-weight: bolder;
 }
 .msg-container{
-    height: 12svmin;
+    height: 125vmin;
     margin-top: 0.8em;
 }
 .hide{
     display: none;
 } 
+@media (max-width: 600px){
+    .game{
+        height: 80vmin;
+        width: 80vmin;
+        gap: 2.5vmin;
+    }
+    .box{
+        height: 20vmin;
+        width: 20vmin;
+        font-size: 8vmin;
+    }
+    .msg-container{
+    height: 20vh;
+    }
+}
